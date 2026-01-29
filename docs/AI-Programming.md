@@ -35,7 +35,7 @@ https://github.com/haru01/sample_university_management_system/tree/main/backend
 - GitHub CopilotのチャットのAskモード
 - その他チャットAI
 
-### 2022: AIのコード補完
+### 2021: AIのコード補完
 
 コードエディタ内で編集中にAIがコード補完を行い、開発を支援するスタイルです。
 
